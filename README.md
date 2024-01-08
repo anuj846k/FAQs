@@ -53,17 +53,21 @@ Users should be able to:
 ### What I learned
 During this project, I gained a deeper understanding of several CSS properties and JavaScript methods, which significantly enhanced my web development skills.
 CSS transitions allow HTML elements to gradually change from one style to another. I learned how to apply transitions to different CSS properties and control the speed of the transition.
-```css
+```
+css
 .question::after {
     ...
     transition: transform 0.3s, color 0.3s;
 }
+```
 The classList.toggle method in JavaScript adds a class to an element if it does not already have it, and removes it if it does. This is particularly useful for interactive elements, like the items in an FAQ accordion.
 
+```
 
 faqItems[i].addEventListener('click', function () {
     this.classList.toggle('active');
 });
+```
 
 
 ### Continued development
