@@ -79,7 +79,6 @@ I think i will focus more on responsivenes and transitions and javascript ,Dom m
 
 ## Author
 
-- Website - [Anujkumar](https://www.your-site.com)
 - Frontend Mentor - [@anuj846k](https://www.frontendmentor.io/profile/anuj846k)
 - Twitter - [@anuj846kk](https://www.twitter.com/anuj846kk)
 
