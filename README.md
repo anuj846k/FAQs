@@ -35,9 +35,9 @@ Users should be able to:
 
 
 ### Links
-
+- Repository URL:[repo URL here](https://github.com/anuj846k/FAQs)
 - Solution URL: [ solution URL here](https://your-solution-url.com)
-- Live Site URL: [ live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ live site URL here](https://anuj846k.github.io/FAQs/)
 
 ## My process
 
@@ -80,7 +80,7 @@ I think i will focus more on responsivenes and transitions and javascript ,Dom m
 ## Author
 
 - Website - [Anujkumar](https://www.your-site.com)
-- Frontend Mentor - [@anuj846k](https://www.frontendmentor.io/profile/anuj846kk)
+- Frontend Mentor - [@anuj846k](https://www.frontendmentor.io/profile/anuj846k)
 - Twitter - [@anuj846kk](https://www.twitter.com/anuj846kk)
 
 
